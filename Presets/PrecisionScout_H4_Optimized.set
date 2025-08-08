@@ -1,0 +1,12 @@
+RiskPercent=2.0
+ATRPeriod=14
+ATRMultiplier=1.5
+ADX_Minimum=17.5
+ADX_Period=11
+RequireADXIncreasing=true
+MinDIDistance=5.0
+PSAR_Step=0.09
+PSAR_Max=0.2
+MagicNumber=123456
+EnableTrading=true
+ShowDiagnostics=true

@@ -1,0 +1,28 @@
+0	08:03:50.215	Big Trend Catcher MT4 EURGBP,Daily: uninit reason 1
+0	08:03:50.222	Expert Big Trend Catcher MT4 EURGBP,Daily: removed
+0	08:07:19.611	SentimentScore CNHJPY,Daily: uninit reason 9
+0	08:07:19.611	iExposure CNHJPY,Daily: uninit reason 9
+0	08:07:19.612	BoxReversal EURUSD,H1: uninit reason 9
+0	08:07:19.613	SentimentScore_v2 EURUSD,H1: uninit reason 9
+0	08:07:19.613	SentimentScore_v2 EURGBP,Daily: uninit reason 9
+0	08:07:19.613	SentimentScore_v2 AUDCAD,H4: uninit reason 9
+0	08:07:19.712	Custom indicator SentimentScore CNHJPY,Daily: removed
+0	08:07:19.716	Custom indicator iExposure CNHJPY,Daily: removed
+0	08:07:19.734	Expert BoxReversal EURUSD,H1: removed
+0	08:07:19.740	Custom indicator SentimentScore_v2 EURUSD,H1: removed
+0	08:07:19.755	Custom indicator SentimentScore_v2 EURGBP,Daily: removed
+0	08:07:19.765	Custom indicator SentimentScore_v2 AUDCAD,H4: removed
+0	08:07:45.382	Custom indicator SentimentScore CNHJPY,Daily: loaded successfully
+0	08:07:45.396	Custom indicator iExposure CNHJPY,Daily: loaded successfully
+0	08:07:45.413	SentimentScore CNHJPY,Daily: initialized
+0	08:07:45.435	iExposure CNHJPY,Daily: initialized
+0	08:07:45.460	Custom indicator SentimentScore_v2 EURUSD,H1: loaded successfully
+0	08:07:45.472	Expert BoxReversal EURUSD,H1: loaded successfully
+0	08:07:45.472	BoxReversal EURUSD,H1 inputs: RiskPercent=2.0; ATR_Period=14; ADX_Period=14; ADX_Minimum=25.0; MinDIDistance=6.0; PSAR_Step=0.09; PSAR_Max=0.2; ReversalZonePct=0.1; 
+0	08:07:45.493	SentimentScore_v2 EURUSD,H1: initialized
+0	08:07:45.523	Custom indicator SentimentScore_v2 EURGBP,Daily: loaded successfully
+0	08:07:45.540	SentimentScore_v2 EURGBP,Daily: initialized
+0	08:07:45.572	Custom indicator SentimentScore_v2 AUDCAD,H4: loaded successfully
+0	08:07:45.590	SentimentScore_v2 AUDCAD,H4: initialized
+0	08:07:48.874	BoxReversal EURUSD,H1: [BoxReversal] Initialized at 2025.08.08 16:07
+0	08:07:48.874	BoxReversal EURUSD,H1: initialized
